@@ -12,3 +12,7 @@ Projects:
 - CLI Emergency Response System utilising various data structures in C++
 - CLI Interest Calculator in Python
 - CLI Banking Application in JAVA
+
+Experience:
+- Campus Ambassador for ETL Online (August 2024)
+- Software Project Documentation (SRS, SDS, STP)
