@@ -5,7 +5,7 @@ Enthuisiastic about learning more and implementing it.
 
 Education:
 Currently pursuing a Bachelor's degree in Software Engineering at COMSATS University, Islamabad.
-My course includes various aspect of software deelopment including object-oriented programming, data structures and algorithms, data bases and web development.
+My course includes various aspect of software development including object-oriented programming, data structures and algorithms, data bases and web development.
 
 Projects:
 - CLI Turn Based Battle Game using object-oriented approach in JAVA
